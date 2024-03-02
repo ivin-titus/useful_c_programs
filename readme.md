@@ -10,3 +10,4 @@ Description
 * The encryption/decryption process involves shifting each letter in the input text by the specified key value, wrapping around the alphabet if necessary. 
 * Non-alphabetic characters remain unchanged. The encrypted or decrypted text is stored in a global variable.
 * Finally, the program displays the encrypted or decrypted text to the user. If the input text contains spaces or special characters, it will be correctly processed without causing errors or crashes
+* See cipher.c for more info
