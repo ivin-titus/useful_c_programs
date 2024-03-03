@@ -11,3 +11,13 @@ Description
 * Non-alphabetic characters remain unchanged. The encrypted or decrypted text is stored in a global variable.
 * Finally, the program displays the encrypted or decrypted text to the user. If the input text contains spaces or special characters, it will be correctly processed without causing errors or crashes
 * See cipher.c for more info
+
+
+
+Ways to Run this Program
+
+* gcc cipher.c -o cipher //( for gcc compiler )
+        ./cipher use key
+* run ./cipher without arguements , you'll be prompted to enter use & key. 
+
+Note : Use refers to Encrypt/Decrypt - According to your use . Key is a number that's used to encrypt or decrypt cipher code .
