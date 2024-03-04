@@ -5,8 +5,8 @@
 
 #define MAX 255
 
-void decrypt(char* word, int key);
-void encrypt(char* word, int key);
+void decrypt(char* word, int key); // prototype of function - decrypt
+void encrypt(char* word, int key); // prototype of function- encrypt
 
 // Global Variable that accepts encrypted / decrypted string
 char that_text[MAX];
