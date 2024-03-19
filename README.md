@@ -7,6 +7,6 @@ Not some basic programs , but still beginners should refer to these codes .<br> 
 
 ## **Contents** : 
 
-### ** * Cipher encoding and decoding using C**
+### *** Cipher encoding and decoding using C**
 
 ### **support me on github and instagram for more programs like this - visit profile for more info**
