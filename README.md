@@ -5,7 +5,7 @@ Not some basic programs , but still beginners should refer to these codes .<br> 
 
 ###Check branches for codes
 
-## **Contents** : 
+##**Contents** : 
 
 ### ** * Cipher encoding and decoding using C**
 
