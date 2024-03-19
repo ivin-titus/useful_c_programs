@@ -1,4 +1,4 @@
-# useful_c_programs
+# Useful C Programs
 
 ## This repo includes c programs that has some real world usage .<br>
 Not some basic programs , but still beginners should refer to these codes .<br> Because it can improve your programming skills
